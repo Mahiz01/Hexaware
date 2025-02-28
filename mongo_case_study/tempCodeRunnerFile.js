@@ -1,0 +1,2 @@
+fetchByauthor("Armorjake");
+fetchBytitle("Moon");
