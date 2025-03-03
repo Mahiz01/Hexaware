@@ -1,4 +1,6 @@
 node_case_study/node_modules
 mongo_case_study/node_modules
-mongoDb/node_modules
+mongoDb
 RestAPI/node_modules
+react-app
+python
